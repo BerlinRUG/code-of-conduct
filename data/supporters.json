@@ -387,6 +387,20 @@
           "twitter": "fhemberger"
         }
       ]
+    },
+    {
+      "name": "Berlin R Users Group",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://http://www.meetup.com/Berlin-R-Users-Group/",
+      "twitter": "BerlinRUG",
+      "contacts": [
+        {
+          "name": "Konstantin Greger",
+          "email": "BerlinRUG@gmail.com",
+          "twitter": "kogreger"
+        }
+      ]
     }
   ],
   "conferences": [
